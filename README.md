@@ -43,7 +43,15 @@ It demonstrates the use of **Object-Oriented Programming (OOP)** concepts such a
 
 ---
 
-## ▶️ How to Run
+sample Output
 
-1. Open the project in any Java IDE (Eclipse, IntelliJ, or VS Code with Java extension).  
-2. Navigate to the file:  
+==============|| Student Management System ||============
+
+1. Add School Student Data
+2. Add College Student Data
+3. Add Hostel Student Data
+4. Display All Details
+5. Update College CGPA
+6. Check Placement Eligibility
+7. Exit
+=========================================================
