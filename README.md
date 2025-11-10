@@ -1,4 +1,4 @@
-# Student Management System (Java Mini Project)
+# Student Management System 
 
 ## Overview
 The **Student Management System** is a console-based Java application designed to manage information about different types of students — school, college, and hostel.  
